@@ -1,0 +1,30 @@
+# --- Core LangChain (LCEL / Runnables) ---
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# --- Mistral AI (replaces OpenAI) ---
+langchain-mistralai>=0.2.0
+mistralai>=1.0.0
+
+# --- ReAct agent + multi-agent orchestration ---
+langgraph>=0.2.0
+
+# --- Tool 1: Tavily search ---
+langchain-tavily>=0.1.0
+tavily-python>=0.5.0
+
+# --- Tool 2: BeautifulSoup web scraping ---
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=5.0.0
+
+# --- Config / env handling ---
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# --- Pretty terminal output ---
+rich>=13.0.0
+
+# --- UI ---
+streamlit>=1.40.0
