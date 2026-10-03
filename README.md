@@ -141,6 +141,8 @@ python pipeline.py
 ## 👤 Author
 
 **Khushi Singh**
+
+
 Hi, I'm KHUSHI SINGH, with an interest in AI agents, LLM applications and data. I built ResearchPilot to learn how multiple agents and tools can work together in one pipeline, from tool calling with Tavily and BeautifulSoup to LCEL chains and a Streamlit interface.
 I enjoy turning ideas into working projects and I'm currently looking to grow in the field of AI and data.
 
