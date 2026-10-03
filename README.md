@@ -11,7 +11,7 @@
 
 **👉 [Open ResearchPilot](YOUR_DEPLOYED_APP_LINK_HERE)**
 
-## 📸 Screenshots
+## 🖼️ Application preview
 
 | Home | Pipeline running |
 |------|------------------|
