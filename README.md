@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-**👉 [Open ResearchPilot](YOUR_DEPLOYED_APP_LINK_HERE)**
+**👉 [Open ResearchPilot](https://research-pilot-khushi-singhh.streamlit.app/)**
 
 ## 🖼️ Application preview
 
