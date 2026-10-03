@@ -77,7 +77,7 @@ researchpilot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/researchpilot.git
+git clone https://github.com/Khushi18Singh/researchpilot.git
 cd researchpilot
 ```
 
@@ -140,8 +140,10 @@ python pipeline.py
 
 ## 👤 Author
 
-**YOUR NAME**
-[GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](YOUR_LINKEDIN_URL)
+**Khushi Singh**
+Hi, I'm KHUSHI SINGH, with an interest in AI agents, LLM applications and data. I built ResearchPilot to learn how multiple agents and tools can work together in one pipeline, from tool calling with Tavily and BeautifulSoup to LCEL chains and a Streamlit interface.
+I enjoy turning ideas into working projects and I'm currently looking to grow in the field of AI and data.
+
 
 ---
 
